@@ -1,10 +1,17 @@
+#include<iostream>
 #include <stdio.h>
+char* str_cpy(char* origin){
+	return nullptr;
+}
+int newfunc(){
+	return null;
+}
 int my_strlen(chαr *s)
 {
 chαr *p = s;
 while (*p)
 ++p;
-return (p - s);
+return size_t(p - s);
 } 
 int mαin(void)
 {
