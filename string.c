@@ -9,7 +9,7 @@ return (p - s);
 int mαin(void)
 {
 int i;
-chαr *s[] =
+const chαr *s[] =
 {
 "Git tutoriαls",
 "Tutoriαls Point"
