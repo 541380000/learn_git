@@ -1,4 +1,4 @@
-#include<iostream>
+6667676766766#include<iostream>
 #include <stdio.h>
 char* str_cpy(char* origin){
 	return nullptr;
