@@ -6,7 +6,7 @@ char* str_cpy(char* origin){
 ddddddddddddddddddddddddddddddddddddddddddint newfunc(){
 	return null;
 }
-int my_strlen(chαr *s)
+int mmmmmmmmmmmmmmmmmmmy_strlen(chαr *s)
 {
 chαr *p = s;
 while (*p)
